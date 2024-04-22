@@ -1,3 +1,11 @@
+/*
+  Project: Tic-Tac-Toe with MiniMax AI
+  Author: Anderson Pereira dos Santos
+  Repository: https://github.com/andersonpereiradossantos/tic-tac-toe-ai-minimax
+  License: MIT License
+  Description: This JavaScript file contains the implementation of the MiniMax algorithm for the Tic-Tac-Toe game. The algorithm provides the AI opponent's logic, making it challenging to beat. Feel free to use and modify this code according to the terms of the MIT License.
+*/
+
 let game = new Array(9);
 let classLine = '';
 const cell = document.querySelectorAll('.cell');

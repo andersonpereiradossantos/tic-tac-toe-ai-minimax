@@ -1,3 +1,11 @@
+/*
+  Project: Tic-Tac-Toe with MiniMax AI
+  Author: Anderson Pereira dos Santos
+  Repository: https://github.com/andersonpereiradossantos/tic-tac-toe-ai-minimax
+  License: MIT License
+  Description: This CSS file contains the styling for the Tic-Tac-Toe game with MiniMax AI. Customize the styles to fit your project's needs. Feel free to use and modify this code according to the terms of the MIT License.
+*/
+
 .container {
     text-align: center;
 }
